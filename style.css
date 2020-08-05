@@ -1,0 +1,25 @@
+.nav1 {
+ position: absolute;
+ right: 45px;
+}
+
+.nav2 {
+  position: absolute;
+  right: 245px;
+}
+
+
+
+
+.soonTM img{
+   width: 10%;
+   height: auto;
+   position: relative;
+  top: 48px;
+}
+
+
+.normalText {
+   color:#00DBAD;
+
+}
