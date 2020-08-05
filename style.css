@@ -1,15 +1,16 @@
 .nav1 {
  position: absolute;
  right: 45px;
+ color:#00DBAD;
+ text-decoration: none;
 }
 
 .nav2 {
   position: absolute;
   right: 245px;
+  color:#00DBAD;
+  text-decoration: none;
 }
-
-
-
 
 .soonTM img{
    width: 10%;
@@ -18,8 +19,11 @@
   top: 48px;
 }
 
-
 .normalText {
    color:#00DBAD;
+   font-family: 'Noto Sans', sans-serif;
+}
 
+.footer {
+  color:#00af8a
 }
