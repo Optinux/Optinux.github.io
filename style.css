@@ -3,6 +3,10 @@
  right: 45px;
  color:#00DBAD;
  text-decoration: none;
+ border-style: solid;
+ border-radius: 15px 15px ;
+ padding: 5px;
+ top: 15px;
 }
 
 .nav2 {
@@ -10,6 +14,19 @@
   right: 245px;
   color:#00DBAD;
   text-decoration: none;
+  border-style: solid;
+  border-radius: 15px 15px ;
+  padding: 5px;
+  top: 15px;
+}
+
+.nav1:hover{
+background-color:#3D4148
+;
+}
+
+.nav2:hover{
+background-color:#3D4148;
 }
 
 .soonTM img{
@@ -26,4 +43,16 @@
 
 .footer {
   color:#00af8a
+}
+
+.optinux{
+ color:#fc5cfa;
+}
+
+.optinux:after{
+  content: "Optinux"
+}
+
+.optinux:hover:after {
+    content: "formerly known as Tobilpcraft";
 }
